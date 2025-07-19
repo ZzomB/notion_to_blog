@@ -22,6 +22,8 @@
 //     />
 //   )
 // }
+// components/comment.tsx
+
 export default function Comment() {
   return null;
 }
