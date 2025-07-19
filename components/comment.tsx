@@ -22,3 +22,10 @@
 //     />
 //   )
 // }
+export default function Comment() {
+  return (
+    <div style={{ color: "#888", fontSize: "0.9rem", textAlign: "center" }}>
+      댓글 기능은 아직 설정되지 않았습니다.
+    </div>
+  );
+}
